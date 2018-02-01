@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	font-family: "Fenix";
+	margin-left: 17%;
+	margin-right: 17%;
+}
+
+p {
+	text-indent: 5%
+}
+
+#heading {
+	text-align: center;
+	text-indent: 0%;
+}
+
+hr {
+	width: 35%
+}
+
+@font-face {
+font-family: "Fenix";
+src: url("Fenix_Std.WOFF");
+src: 
+url("Fenix_Std.WOFF") format("woff"),
+url("Fenix_Std.otf") format("opentype"),
+url("Fenix_Regular.ttf") format("ttf");
+}
+
